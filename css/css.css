@@ -7,13 +7,51 @@
     font-family: "IBM Plex Mono", 'Courier New', Courier, monospace;
 }
 
-#zero, #twee, #vier,
-#zes {
+#navbar-ul{
+    list-style-type: none;
+    position: fixed;
+    width: 100%;
+}
+
+#navbar-ul li{
+    float: left;
+    background-color: blanchedalmond;
+}
+
+#navbar-ul a{
+    display: block;
+    padding: 15px;
+    text-decoration: none;
+}
+
+#navbar-ul li a:hover{
+    background-color: #041494;
+    color: aquamarine;
+    text-decoration: none;
+}
+
+#navbar-ul #current{
+    background-color: #666666;
+    color: blueviolet;
+}
+
+#navbar, #navbar-ul {
+    background-color: rgb(0, 255, 149);
+}
+
+#vier {
+    display: none;
     background-color: aqua;
 }
 
 #een, #drie, #vijf {
+    display: none;
     background-color: darkred;
+
+}
+#twee, #zes {
+    display: none;
+    background-color: cornflowerblue;
 }
 
 a:link, a:visited{
