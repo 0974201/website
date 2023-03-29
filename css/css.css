@@ -9,6 +9,7 @@
 
 body {
     background-color: #999999;
+    cursor: grab;
 }
 
 #navbar {
@@ -17,8 +18,7 @@ body {
 }
 
 #navbar, #navbar-ul {
-    /*background-color: #666666;*/
-    background-image: linear-gradient(to right, #000066, #330066);
+    background: linear-gradient(to right, rgba(0,0,102,1) 0%, rgba(51,0,102,1) 55%, rgba(51,0,102,1) 100%);
 }
 
 #navbar-ul {
@@ -32,10 +32,6 @@ body {
     float: left;
     border-right: 1px solid #333333;
 }
-
-/*#navbar-ul li:last-child {
-    border-right: none;
-}*/
 
 #navbar-ul a {
     display: block;
@@ -51,15 +47,15 @@ body {
 }
 
 #navbar-ul #icon {
-    background-color: #333333;
-    color: #660099;
+    float: right;
+    background-color: #666666;
 }
 
-#navbar-ul #current {
-    color: #660099;
+#navbar-ul #icon a:hover{
+    background: linear-gradient(90deg, rgba(255,0,0,1) 0%, rgba(255,255,0,1) 15%, rgba(0,255,0,1) 30%, rgba(0,174,255,1) 45%, rgba(0,29,255,1) 60%, rgba(179,0,255,1) 75%, rgba(255,0,142,1) 90%, rgba(255,0,0,1) 100%);
 }
 
-#navbar-ul #current:hover {
+#navbar-ul #current, #current:hover {
     color: #660099;
 }
 
@@ -102,6 +98,7 @@ a:link:active, a:visited:active {
 }
 
 a:hover {
+    cursor: help;
     color: #660099;
 }
 
