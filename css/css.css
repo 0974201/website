@@ -17,7 +17,8 @@ body {
 }
 
 #navbar, #navbar-ul {
-    background-color: #666666;
+    /*background-color: #666666;*/
+    background-image: linear-gradient(to right, #000066, #330066);
 }
 
 #navbar-ul {
@@ -29,7 +30,7 @@ body {
 
 #navbar-ul li {
     float: left;
-    border-right: 1px dotted #ff0000;
+    border-right: 1px solid #333333;
 }
 
 /*#navbar-ul li:last-child {
@@ -39,29 +40,37 @@ body {
 #navbar-ul a {
     display: block;
     padding: 15px;
-    color: #0000ff;
+    color: #ffffff;
     text-decoration: none;
 }
 
 #navbar-ul li a:hover {
-    background-color: #000099;
-    color: #66ffff;
+    background-color: #666666;
+    color: #000000;
     text-decoration: none;
 }
 
-#navbar-ul #current {
+#navbar-ul #icon {
     background-color: #333333;
     color: #660099;
 }
 
-#navbar-ul #current span{
+#navbar-ul #current {
+    color: #660099;
+}
+
+#navbar-ul #current:hover {
+    color: #660099;
+}
+
+#navbar-ul span{
     text-decoration: underline;
 }
 
 #een {
     margin-top: 50px;
     width: 85%;
-    margin-left: 90px;
+    margin-left: 88px;
     height: 550px;
     background-color: #ffffff;
 }
@@ -94,4 +103,31 @@ a:link:active, a:visited:active {
 
 a:hover {
     color: #660099;
+}
+
+
+@media screen and (max-width: 600px) {
+    #navbar-ul {
+        list-style-type: none;
+        overflow: hidden;
+        position: fixed;
+        width: 100%;
+    }
+
+    #navbar-ul a {
+        display: block;
+        padding: 8px;
+    }
+
+    #een {
+        margin-top: 35px;
+        width: 85%;
+        margin-left: 30px;
+        height: 550px;
+        background-color: #ffffff;
+    }
+    
+    #een img {
+        size: 50px;
+    }
 }
