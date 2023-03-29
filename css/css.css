@@ -7,31 +7,40 @@
     font-family: "IBM Plex Mono", 'Courier New', Courier, monospace;
 }
 
-#navbar-ul{
+#navbar {
+    position: fixed;
+    top: 0;
+}
+
+#navbar-ul {
     list-style-type: none;
     overflow: hidden;
     position: fixed;
     width: 100%;
 }
 
-#navbar-ul li{
+#navbar-ul li {
     float: left;
-    background-color: blanchedalmond;
+    border-right: 1px dotted #c70b0b;
 }
 
-#navbar-ul a{
+#navbar-ul li:last-child {
+    border-right: none;
+}
+
+#navbar-ul a {
     display: block;
     padding: 15px;
     text-decoration: none;
 }
 
-#navbar-ul li a:hover{
+#navbar-ul li a:hover {
     background-color: #041494;
     color: aquamarine;
     text-decoration: none;
 }
 
-#navbar-ul #current{
+#navbar-ul #current {
     background-color: #666666;
     color: blueviolet;
 }
@@ -40,27 +49,29 @@
     background-color: rgb(0, 255, 149);
 }
 
-#vier {
+#een {
+    display: block;
     background-color: aqua;
 }
 
-#een, #drie, #vijf {
-    background-color: darkred;
-
-}
-#twee, #zes {
+#twee, #vier {
     background-color: cornflowerblue;
 }
 
-a:link, a:visited{
-    color: #346579;
+#drie, #vijf {
+    background-color: darkred;
+
+}
+
+a:link, a:visited {
+    color: #b0ffde;
     text-decoration: underline;
 }
 
-a:link:active, a:visited:active{ 
+a:link:active, a:visited:active { 
     color: #041494;
 }
 
-a:hover{
+a:hover {
     color: #666666;
 }
