@@ -28,9 +28,9 @@ body {
     border-right: 1px dotted #c70b0b;
 }
 
-#navbar-ul li:last-child {
+/*#navbar-ul li:last-child {
     border-right: none;
-}
+}*/
 
 #navbar-ul a {
     display: block;
@@ -70,11 +70,12 @@ body {
 
 a:link, a:visited {
     color: #b0ffde;
-    text-decoration: underline;
+    text-decoration: dotted underline;
 }
 
 a:link:active, a:visited:active { 
     color: #041494;
+    text-decoration: none;
 }
 
 a:hover {
