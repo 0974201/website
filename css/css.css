@@ -7,6 +7,15 @@
     font-family: "IBM Plex Mono", 'Courier New', Courier, monospace;
 }
 
+#zero, #twee, #vier,
+#zes {
+    background-color: aqua;
+}
+
+#een, #drie, #vijf {
+    background-color: darkred;
+}
+
 a:link, a:visited{
     color: #346579;
     text-decoration: underline;
