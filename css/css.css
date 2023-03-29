@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Didact+Gothic');
-/* ik heb absoluut geen idee wat ik hier aan het doen ben ¯\_(´・ω・｀)_/¯ */
+/* ¯\_(´・ω・｀)_/¯ */
    
 a:link, a:visited{
     color: #346579;
@@ -13,51 +13,3 @@ a:link:active, a:visited:active{
 a:hover{
     color: #666666;
 }
-
-/*.navbar{
-    margin-bottom: 0;
-    background-color: #2D2D30;
-    border: 0;
-    font-size: 12px !important;
-    letter-spacing: 4px;
-    opacity: 0.9;
-}
-
-.navbar li a, .navbar .navbar-brand{
-    color: #803333;
-}
-
-.navbar-nav li a:hover{
-    color: #7a0707;
-}
-
-.navbar-nav li.active a{
-    color: #2e1a1a;
-    background-color: #5f0000;
-}
-
-.navbar-default .navbar-toggle{
-    border-color: transparent;
-}*/
-
-/*
-.c1{
-    background-color: #05335c;
-}
-
-.c2{
-    background-color: #0fb8b8;
-}
-
-.c3{
-    background-color: #bd54bd;
-}
-
-.c4{
-    background-color: #5f0000;
-}
-
-#home .container-fluid{
-    padding-top: 10px;
-    padding-bottom: 10px;
-}*/
