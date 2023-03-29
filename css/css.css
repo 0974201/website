@@ -68,6 +68,7 @@ body {
     width: 85%;
     margin-left: 88px;
     height: 550px;
+    text-align: center;
     background-color: #ffffff;
 }
 
@@ -75,16 +76,11 @@ body {
     padding: 50px;
 }
 
-#twee, #vier, 
-#drie, #vijf {
-    display: none;
+#vijf {
+    width: 85%;
+    margin-left: 88px;
+    text-align: right;
     background-color: cornflowerblue;
-    background-color: darkred;
-}
-
-#een, #twee, #drie,
-#vier, #vijf {
-    text-align: center;
 }
 
 a:link, a:visited {
@@ -112,8 +108,20 @@ a:hover {
     }
 
     #navbar-ul a {
-        display: block;
-        padding: 8px;
+        display: flex;
+        flex-direction: column;
+        padding: 9px;
+        font-size: small;
+    }
+
+    #navbar-ul #icon {
+        float: right;
+        padding: 15px;
+        background-color: #666666;
+    }
+
+    #navbar-ul #icon a:hover{
+        background: linear-gradient(90deg, rgba(255,0,0,1) 0%, rgba(255,255,0,1) 15%, rgba(0,255,0,1) 30%, rgba(0,174,255,1) 45%, rgba(0,29,255,1) 60%, rgba(179,0,255,1) 75%, rgba(255,0,142,1) 90%, rgba(255,0,0,1) 100%);
     }
 
     #een {
@@ -126,5 +134,12 @@ a:hover {
     
     #een img {
         size: 50px;
+    }
+
+    #vijf {
+        width: 85%;
+        margin-left: 30px;
+        text-align: right;
+        background-color: cornflowerblue;
     }
 }
