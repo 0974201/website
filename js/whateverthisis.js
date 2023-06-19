@@ -25,14 +25,16 @@ function make_article(obj){
 
     for(const project of projecten){
         const art = document.createElement("article");
-        art.className = "proj";
+        art.id = "proj";
         let title = document.createElement('h1');
         let thumb = document.createElement('img');
-        let text = document.createElement('p');
+        let text = document.createElement('span');
         let link = document.createElement('a');
 
         title.innerHTML = project.naam;
         thumb.innerHTML = project.thumbnail;
+        //thumb.src = project.thumbnail;
+        thumb.src = "https://upload.wikimedia.org/wikipedia/commons/6/67/Chengdu-pandas-d04.jpg";
         text.innerHTML = project.tekst;
         link.href = project.link;
         link.target = "_blank";

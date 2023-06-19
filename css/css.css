@@ -72,6 +72,27 @@ body {
     background-color: #ffffff;
 }
 
+#proj {
+    margin-bottom: 10px;
+    background-color: #666666;
+    display: flow-root;
+    /*justify-content: center;
+    align-items: stretch;
+    flex-direction: column;*/
+}
+
+#proj img{
+    width: 150px;
+    margin-left: 10px;
+    border: 10px solid #0066ff;
+    display: inline;
+    float: left;
+}
+
+#proj span{
+    display: inline;
+}
+
 #construction {
     padding: 50px;
 }
@@ -134,6 +155,15 @@ a:hover {
     
     #content img {
         size: 50px;
+    }
+
+    #proj {
+        margin-bottom: 10px;
+        background-color: #666666;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
     }
 
     #foot {
