@@ -33,12 +33,11 @@ function make_article(obj){
 
         title.innerHTML = project.naam;
         thumb.innerHTML = project.thumbnail;
-        //thumb.src = project.thumbnail;
-        thumb.src = "https://upload.wikimedia.org/wikipedia/commons/6/67/Chengdu-pandas-d04.jpg";
-        text.innerHTML = project.tekst;
+        thumb.src = project.thumbnail;
+        text.innerHTML = project.tekst + '<br/>';
         link.href = project.link;
         link.target = "_blank";
-        link.innerHTML = "github";
+        link.innerHTML = '<i class="fa-brands fa-github"></i>' + " github";
         
         art.appendChild(title);
         art.appendChild(thumb);
