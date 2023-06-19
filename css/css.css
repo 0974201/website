@@ -67,30 +67,36 @@ body {
     margin-top: 50px;
     width: 85%;
     margin-left: 88px;
-    height: 550px;
+    height: auto;
     text-align: center;
     background-color: #ffffff;
 }
 
+#contact {
+    height: 400px;
+}
+
 #proj {
+    width: inherit;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
     margin-bottom: 10px;
+    margin-left: auto;
+    margin-right: auto;
     background-color: #666666;
-    display: flow-root;
-    /*justify-content: center;
-    align-items: stretch;
-    flex-direction: column;*/
 }
 
 #proj img{
-    width: 150px;
+    width: 350px;
     margin-left: 10px;
+    margin-bottom: 10px;
     border: 10px solid #0066ff;
-    display: inline;
-    float: left;
 }
 
 #proj span{
-    display: inline;
+    overflow-wrap: anywhere;
 }
 
 #construction {
@@ -118,7 +124,6 @@ a:hover {
     cursor: help;
     color: #660099;
 }
-
 
 @media screen and (max-width: 600px) {
     #navbar-ul {
@@ -149,7 +154,7 @@ a:hover {
         margin-top: 70px;
         width: 85%;
         margin-left: 30px;
-        height: 550px;
+        height: auto;
         background-color: #ffffff;
     }
     
@@ -158,12 +163,20 @@ a:hover {
     }
 
     #proj {
+        width: auto;
         margin-bottom: 10px;
         background-color: #666666;
         display: flex;
         justify-content: center;
         align-items: center;
         flex-direction: column;
+    }
+
+    #proj img{
+        width: 200px;
+        margin-left: 10px;
+        margin-bottom: 10px;
+        border: 10px solid #0066ff;
     }
 
     #foot {
