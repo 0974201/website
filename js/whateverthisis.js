@@ -26,23 +26,26 @@ function make_article(obj){
     for(const project of projecten){
         const art = document.createElement("article");
         art.id = "proj";
-        let title = document.createElement('h1');
-        let thumb = document.createElement('img');
-        let text = document.createElement('span');
-        let link = document.createElement('a');
+        const title = document.createElement('h1');
+        const thumb = document.createElement('img');
+        const text = document.createElement('span');
+        const link = document.createElement('b');
+        const url = document.createElement('a');
 
         title.innerHTML = project.naam;
         thumb.innerHTML = project.thumbnail;
         thumb.src = project.thumbnail;
-        text.innerHTML = project.tekst + '<br/>';
-        link.href = project.link;
-        link.target = "_blank";
-        link.innerHTML = '<i class="fa-brands fa-github"></i>' + " github";
+        text.innerHTML = project.tekst + '<br/><br/>';
+        link.innerHTML = "Link: "
+        url.href = project.link;
+        url.target = "_blank";
+        url.innerHTML = '<i class="fa-brands fa-github"></i>' + " github" + '<br/><br/>';
         
         art.appendChild(title);
         art.appendChild(thumb);
         art.appendChild(text);
         art.appendChild(link);
+        art.appendChild(url);
 
         shit.appendChild(art);
     }
