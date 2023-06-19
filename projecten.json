@@ -2,15 +2,15 @@
     "projecten": [
       {
         "naam": "aaa",
-        "thumbnail": "aaaa",
+        "thumbnail": "https://commons.wikimedia.org/wiki/File:Chengdu-pandas-d04.jpg",
         "tekst": "aaaaa",
-        "link": "aaaaaa"
+        "link": "https://aaaaaa.nl"
       },
       {
         "naam": "bbb",
         "thumbnail": "bbbb",
         "tekst": "bbbbb",
-        "link": "bbbbbb"
+        "link": "https://google.com"
       }
     ]
   }
