@@ -2,21 +2,21 @@
     "projecten": [
       {
         "naam": "Dysflexis",
-        "thumbnail": "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXUyN2VpcTU2cnVoejZtMTY0NTNwaWtrZTRvN2ZxaWg0YTA0eDJtMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xNuoUMEJCdVKVm7r2x/giphy-downsized-large.gif",
+        "thumbnail": "https://raw.githubusercontent.com/0974201/website/main/img/gif1.gif",
         "talen": "ReactJS, JavaScript, SQL, (HTML + CSS)",
         "tekst": "In het laatste blok van dit schooljaar kregen wij de opdracht om voor Dysflexis een feedbacktool te maken. Mijn bijdrage aan het project bestond uit het opzetten van de backend, inclusief het maken van de database, en het implementeren van de login functionaliteit.",
         "url": "https://github.com/Rac-Software-Development/werkplaats-4-react-zeehond"
       },
       {
         "naam": "Aanwezigheidstool HRO",
-        "thumbnail": "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXUyN2VpcTU2cnVoejZtMTY0NTNwaWtrZTRvN2ZxaWg0YTA0eDJtMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xNuoUMEJCdVKVm7r2x/giphy-downsized-large.gif",
+        "thumbnail": "https://raw.githubusercontent.com/0974201/website/main/img/gif2.gif",
         "talen": "Python (Flask), JavaScript, SQL, (HTML + CSS)",
         "tekst": "In het derde blok van dit schooljaar kregen wij de opdracht om voor de Hogeschool Rotterdam een aanwezigheidstool te maken. Mijn bijdrage aan het project bestond uit het opzetten van de backend, inclusief het maken van de database, en het ontwikkelen van het admingedeelte.",
         "url": "https://github.com/Rac-Software-Development/werkplaats-3-rest-zeehond"
       },
       {
         "naam": "Space Warriors",
-        "thumbnail": "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXUyN2VpcTU2cnVoejZtMTY0NTNwaWtrZTRvN2ZxaWg0YTA0eDJtMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xNuoUMEJCdVKVm7r2x/giphy-downsized-large.gif",
+        "thumbnail": "https://raw.githubusercontent.com/0974201/website/main/img/gif3.gif",
         "talen": "Python (Pygame)",
         "tekst": "In het eerste blok van dit schooljaar kregen wij de opdracht om een game te maken met Pygame. Mijn team besloot om een sidescrolling shooter te maken en mijn bijdrage was aan het project was het maken van de player.",
         "url": "https://github.com/Rac-Software-Development/werkplaats-1-pygame-studiestrijders"
