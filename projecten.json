@@ -18,28 +18,28 @@
         "naam": "Full House",
         "thumbnail": "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXUyN2VpcTU2cnVoejZtMTY0NTNwaWtrZTRvN2ZxaWg0YTA0eDJtMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xNuoUMEJCdVKVm7r2x/giphy-downsized-large.gif",
         "talen": "Java, SQL",
-        "tekst": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse sollicitudin diam nec arcu placerat ultrices. Phasellus ultrices aliquet est, ac scelerisque augue placerat quis. Praesent eget dolor erat. Morbi finibus faucibus est at egestas. In scelerisque lacinia aliquet. Morbi pulvinar, nisi sit amet ultrices consectetur, urna ipsum hendrerit nibh, sed malesuada dui ligula eget ex. Sed tempus elementum nisi, id cursus eros consequat aliquet. Curabitur malesuada odio vel tortor pellentesque laoreet. Etiam at nibh augue. Donec fringilla est tortor, at viverra orci pharetra sed. Praesent eget molestie arcu. Sed quis massa et massa imperdiet elementum in ut urna. Duis blandit rhoncus lorem, nec molestie justo tempor ac. Donec tempus dapibus interdum. Nam commodo feugiat risus gravida finibus. Nulla efficitur quam arcu, et sollicitudin augue vestibulum vitae.",
+        "tekst": "Dit was een herkansingsopdracht voor een database project op mijn vorige opleiding. We moesten een reserveringssysteem maken voor een fictionele organisatie die pokertoernooien organiseert.",
         "url": "https://github.com/0974201/FullHouse"
       },
       {
         "naam": "Code bin",
         "thumbnail": "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXUyN2VpcTU2cnVoejZtMTY0NTNwaWtrZTRvN2ZxaWg0YTA0eDJtMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xNuoUMEJCdVKVm7r2x/giphy-downsized-large.gif",
         "talen": "C#, Java, Python, JavaScript",
-        "tekst": "Dit was een herkansingsopdracht voor een database project op mijn vorige opleiding. We moesten een reserveringssysteem maken voor een fictionele organisatie die pokertoernooien organiseert.",
+        "tekst": "Een repository waar ik stukken code bijhou van de afgelopen jaren, om te kijken hoe ik ben verbeterd in de loop der tijd.",
         "url": "https://github.com/0974201/code-bin"
       },
       {
         "naam": "QR scanner/generator",
         "thumbnail": "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXUyN2VpcTU2cnVoejZtMTY0NTNwaWtrZTRvN2ZxaWg0YTA0eDJtMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xNuoUMEJCdVKVm7r2x/giphy-downsized-large.gif",
         "talen": "Java",
-        "tekst": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse sollicitudin diam nec arcu placerat ultrices. Phasellus ultrices aliquet est, ac scelerisque augue placerat quis. Praesent eget dolor erat. Morbi finibus faucibus est at egestas. In scelerisque lacinia aliquet. Morbi pulvinar, nisi sit amet ultrices consectetur, urna ipsum hendrerit nibh, sed malesuada dui ligula eget ex. Sed tempus elementum nisi, id cursus eros consequat aliquet. Curabitur malesuada odio vel tortor pellentesque laoreet. Etiam at nibh augue. Donec fringilla est tortor, at viverra orci pharetra sed. Praesent eget molestie arcu. Sed quis massa et massa imperdiet elementum in ut urna. Duis blandit rhoncus lorem, nec molestie justo tempor ac. Donec tempus dapibus interdum. Nam commodo feugiat risus gravida finibus. Nulla efficitur quam arcu, et sollicitudin augue vestibulum vitae.",
+        "tekst": "Op een vorige opleiding moesten wij een reserveringssysteem maken voor de techlab op onze locatie. Het was de bedoeling om een android applicatie te bouwen, dit is mijn deel van de app.",
         "url": "https://github.com/0974201/qr-ding"
       },
       {
         "naam": "CameraX",
         "thumbnail": "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXUyN2VpcTU2cnVoejZtMTY0NTNwaWtrZTRvN2ZxaWg0YTA0eDJtMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xNuoUMEJCdVKVm7r2x/giphy-downsized-large.gif",
         "talen": "Java",
-        "tekst": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse sollicitudin diam nec arcu placerat ultrices. Phasellus ultrices aliquet est, ac scelerisque augue placerat quis. Praesent eget dolor erat. Morbi finibus faucibus est at egestas. In scelerisque lacinia aliquet. Morbi pulvinar, nisi sit amet ultrices consectetur, urna ipsum hendrerit nibh, sed malesuada dui ligula eget ex. Sed tempus elementum nisi, id cursus eros consequat aliquet. Curabitur malesuada odio vel tortor pellentesque laoreet. Etiam at nibh augue. Donec fringilla est tortor, at viverra orci pharetra sed. Praesent eget molestie arcu. Sed quis massa et massa imperdiet elementum in ut urna. Duis blandit rhoncus lorem, nec molestie justo tempor ac. Donec tempus dapibus interdum. Nam commodo feugiat risus gravida finibus. Nulla efficitur quam arcu, et sollicitudin augue vestibulum vitae.",
+        "tekst": "Gemaakt tijdens een project op een vorige opleiding, toen CameraX nog in de béta fase was. Het is de basis van bovenstaand project.",
         "url": "https://github.com/thunderedge/CameraX"
       }
     ]
