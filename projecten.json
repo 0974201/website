@@ -3,15 +3,15 @@
       {
         "naam": "Dysflexis",
         "thumbnail": "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXUyN2VpcTU2cnVoejZtMTY0NTNwaWtrZTRvN2ZxaWg0YTA0eDJtMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xNuoUMEJCdVKVm7r2x/giphy-downsized-large.gif",
-        "talen": "ReactJS, JavaScript, SQL",
-        "tekst": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse sollicitudin diam nec arcu placerat ultrices. Phasellus ultrices aliquet est, ac scelerisque augue placerat quis. Praesent eget dolor erat. Morbi finibus faucibus est at egestas. In scelerisque lacinia aliquet. Morbi pulvinar, nisi sit amet ultrices consectetur, urna ipsum hendrerit nibh, sed malesuada dui ligula eget ex. Sed tempus elementum nisi, id cursus eros consequat aliquet. Curabitur malesuada odio vel tortor pellentesque laoreet. Etiam at nibh augue. Donec fringilla est tortor, at viverra orci pharetra sed. Praesent eget molestie arcu. Sed quis massa et massa imperdiet elementum in ut urna. Duis blandit rhoncus lorem, nec molestie justo tempor ac. Donec tempus dapibus interdum. Nam commodo feugiat risus gravida finibus. Nulla efficitur quam arcu, et sollicitudin augue vestibulum vitae.",
+        "talen": "ReactJS, JavaScript, SQL, (HTML + CSS)",
+        "tekst": "In het laatste blok van dit schooljaar kregen wij de opdracht om voor Dysflexis een feedbacktool te maken. Mijn bijdrage aan het project bestond uit het opzetten van de backend, inclusief het maken van de database, en het implementeren van de login functionaliteit.",
         "url": "https://github.com/Rac-Software-Development/werkplaats-4-react-zeehond"
       },
       {
         "naam": "Aanwezigheidstool HRO",
         "thumbnail": "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXUyN2VpcTU2cnVoejZtMTY0NTNwaWtrZTRvN2ZxaWg0YTA0eDJtMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xNuoUMEJCdVKVm7r2x/giphy-downsized-large.gif",
-        "talen": "Python (Flask), JavaScript, SQL",
-        "tekst": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse sollicitudin diam nec arcu placerat ultrices. Phasellus ultrices aliquet est, ac scelerisque augue placerat quis. Praesent eget dolor erat. Morbi finibus faucibus est at egestas. In scelerisque lacinia aliquet. Morbi pulvinar, nisi sit amet ultrices consectetur, urna ipsum hendrerit nibh, sed malesuada dui ligula eget ex. Sed tempus elementum nisi, id cursus eros consequat aliquet. Curabitur malesuada odio vel tortor pellentesque laoreet. Etiam at nibh augue. Donec fringilla est tortor, at viverra orci pharetra sed. Praesent eget molestie arcu. Sed quis massa et massa imperdiet elementum in ut urna. Duis blandit rhoncus lorem, nec molestie justo tempor ac. Donec tempus dapibus interdum. Nam commodo feugiat risus gravida finibus. Nulla efficitur quam arcu, et sollicitudin augue vestibulum vitae.",
+        "talen": "Python (Flask), JavaScript, SQL, (HTML + CSS)",
+        "tekst": "In het derde blok van dit schooljaar kregen wij de opdracht om voor de Hogeschool Rotterdam een aanwezigheidstool te maken. Mijn bijdrage aan het project bestond uit het opzetten van de backend, inclusief het maken van de database, en het ontwikkelen van het admingedeelte.",
         "url": "https://github.com/Rac-Software-Development/werkplaats-3-rest-zeehond"
       },
       {
