@@ -28,7 +28,7 @@ function make_article(obj){
         art.id = "proj";
         const title = document.createElement('h1');
         const thumb = document.createElement('img');
-        const languages = document.createElement('b');
+        const languages = document.createElement('span');
         const text = document.createElement('span');
         const linktxt = document.createElement('b');
         const url = document.createElement('a');
@@ -36,7 +36,7 @@ function make_article(obj){
         title.innerHTML = project.naam;
         thumb.innerHTML = project.thumbnail;
         thumb.src = project.thumbnail;
-        languages.innerHTML = project.talen;
+        languages.innerHTML = "<b>Talen gebruikt: </b>" + project.talen + "<br/><br/>";
         text.innerHTML = project.tekst + '<br/><br/>';
         linktxt.innerHTML = "Link: "
         url.href = project.url;
@@ -45,6 +45,7 @@ function make_article(obj){
         
         art.appendChild(title);
         art.appendChild(thumb);
+        art.appendChild(languages);
         art.appendChild(text);
         art.appendChild(linktxt);
         art.appendChild(url);

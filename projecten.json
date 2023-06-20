@@ -15,32 +15,32 @@
         "url": "https://github.com/Rac-Software-Development/werkplaats-3-rest-zeehond"
       },
       {
-        "naam": "Full House",
-        "thumbnail": "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXUyN2VpcTU2cnVoejZtMTY0NTNwaWtrZTRvN2ZxaWg0YTA0eDJtMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xNuoUMEJCdVKVm7r2x/giphy-downsized-large.gif",
-        "talen": "Java, SQL",
-        "tekst": "Dit was een herkansingsopdracht voor een database project op mijn vorige opleiding. We moesten een reserveringssysteem maken voor een fictionele organisatie die pokertoernooien organiseert.",
-        "url": "https://github.com/0974201/FullHouse"
-      },
-      {
         "naam": "Code bin",
         "thumbnail": "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXUyN2VpcTU2cnVoejZtMTY0NTNwaWtrZTRvN2ZxaWg0YTA0eDJtMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xNuoUMEJCdVKVm7r2x/giphy-downsized-large.gif",
         "talen": "C#, Java, Python, JavaScript",
-        "tekst": "Een repository waar ik stukken code bijhou van de afgelopen jaren, om te kijken hoe ik ben verbeterd in de loop der tijd.",
+        "tekst": "Een repository waarin ik stukken code van de afgelopen jaren bijhoud, om mijn vooruitgang in de loop der tijd te kunnen volgen.",
         "url": "https://github.com/0974201/code-bin"
       },
       {
         "naam": "QR scanner/generator",
         "thumbnail": "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXUyN2VpcTU2cnVoejZtMTY0NTNwaWtrZTRvN2ZxaWg0YTA0eDJtMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xNuoUMEJCdVKVm7r2x/giphy-downsized-large.gif",
         "talen": "Java",
-        "tekst": "Op een vorige opleiding moesten wij een reserveringssysteem maken voor de techlab op onze locatie. Het was de bedoeling om een android applicatie te bouwen, dit is mijn deel van de app.",
+        "tekst": "Op mijn vorige opleiding moesten we een reserveringssysteem maken voor het techlab op onze locatie. Mijn bijdrage aan het project was het implementeren van een QR-generator en -scanner in de Android-applicatie.",
         "url": "https://github.com/0974201/qr-ding"
       },
       {
         "naam": "CameraX",
         "thumbnail": "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXUyN2VpcTU2cnVoejZtMTY0NTNwaWtrZTRvN2ZxaWg0YTA0eDJtMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xNuoUMEJCdVKVm7r2x/giphy-downsized-large.gif",
         "talen": "Java",
-        "tekst": "Gemaakt tijdens een project op een vorige opleiding, toen CameraX nog in de béta fase was. Het is de basis van bovenstaand project.",
+        "tekst": "Gemaakt tijdens een project op mijn vorige opleiding, toen CameraX nog in de bètafase was. Het vormt de basis van bovenstaand project.",
         "url": "https://github.com/thunderedge/CameraX"
+      },
+      {
+        "naam": "Full House",
+        "thumbnail": "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXUyN2VpcTU2cnVoejZtMTY0NTNwaWtrZTRvN2ZxaWg0YTA0eDJtMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xNuoUMEJCdVKVm7r2x/giphy-downsized-large.gif",
+        "talen": "Java, SQL",
+        "tekst": "Dit was een herkansingsopdracht voor een databaseproject op mijn vorige opleiding. We kregen de opdracht om een reserveringssysteem te maken voor een fictieve organisatie die pokertoernooien organiseert.",
+        "url": "https://github.com/0974201/FullHouse"
       }
     ]
   }
