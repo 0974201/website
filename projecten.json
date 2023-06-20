@@ -1,34 +1,40 @@
 {
     "projecten": [
       {
-        "naam": "project 1",
+        "naam": "Dysflexis",
         "thumbnail": "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXUyN2VpcTU2cnVoejZtMTY0NTNwaWtrZTRvN2ZxaWg0YTA0eDJtMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xNuoUMEJCdVKVm7r2x/giphy-downsized-large.gif",
         "tekst": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse sollicitudin diam nec arcu placerat ultrices. Phasellus ultrices aliquet est, ac scelerisque augue placerat quis. Praesent eget dolor erat. Morbi finibus faucibus est at egestas. In scelerisque lacinia aliquet. Morbi pulvinar, nisi sit amet ultrices consectetur, urna ipsum hendrerit nibh, sed malesuada dui ligula eget ex. Sed tempus elementum nisi, id cursus eros consequat aliquet. Curabitur malesuada odio vel tortor pellentesque laoreet. Etiam at nibh augue. Donec fringilla est tortor, at viverra orci pharetra sed. Praesent eget molestie arcu. Sed quis massa et massa imperdiet elementum in ut urna. Duis blandit rhoncus lorem, nec molestie justo tempor ac. Donec tempus dapibus interdum. Nam commodo feugiat risus gravida finibus. Nulla efficitur quam arcu, et sollicitudin augue vestibulum vitae.",
-        "link": "https://github.com"
+        "link": "https://github.com/Rac-Software-Development/werkplaats-4-react-zeehond"
       },
       {
-        "naam": "project 2",
+        "naam": "Aanwezigheidstool HRO",
         "thumbnail": "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXUyN2VpcTU2cnVoejZtMTY0NTNwaWtrZTRvN2ZxaWg0YTA0eDJtMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xNuoUMEJCdVKVm7r2x/giphy-downsized-large.gif",
         "tekst": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse sollicitudin diam nec arcu placerat ultrices. Phasellus ultrices aliquet est, ac scelerisque augue placerat quis. Praesent eget dolor erat. Morbi finibus faucibus est at egestas. In scelerisque lacinia aliquet. Morbi pulvinar, nisi sit amet ultrices consectetur, urna ipsum hendrerit nibh, sed malesuada dui ligula eget ex. Sed tempus elementum nisi, id cursus eros consequat aliquet. Curabitur malesuada odio vel tortor pellentesque laoreet. Etiam at nibh augue. Donec fringilla est tortor, at viverra orci pharetra sed. Praesent eget molestie arcu. Sed quis massa et massa imperdiet elementum in ut urna. Duis blandit rhoncus lorem, nec molestie justo tempor ac. Donec tempus dapibus interdum. Nam commodo feugiat risus gravida finibus. Nulla efficitur quam arcu, et sollicitudin augue vestibulum vitae.",
-        "link": "https://github.com"
+        "link": "https://github.com/Rac-Software-Development/werkplaats-3-rest-zeehond"
       },
       {
-        "naam": "project 3",
+        "naam": "Full House",
         "thumbnail": "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXUyN2VpcTU2cnVoejZtMTY0NTNwaWtrZTRvN2ZxaWg0YTA0eDJtMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xNuoUMEJCdVKVm7r2x/giphy-downsized-large.gif",
         "tekst": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse sollicitudin diam nec arcu placerat ultrices. Phasellus ultrices aliquet est, ac scelerisque augue placerat quis. Praesent eget dolor erat. Morbi finibus faucibus est at egestas. In scelerisque lacinia aliquet. Morbi pulvinar, nisi sit amet ultrices consectetur, urna ipsum hendrerit nibh, sed malesuada dui ligula eget ex. Sed tempus elementum nisi, id cursus eros consequat aliquet. Curabitur malesuada odio vel tortor pellentesque laoreet. Etiam at nibh augue. Donec fringilla est tortor, at viverra orci pharetra sed. Praesent eget molestie arcu. Sed quis massa et massa imperdiet elementum in ut urna. Duis blandit rhoncus lorem, nec molestie justo tempor ac. Donec tempus dapibus interdum. Nam commodo feugiat risus gravida finibus. Nulla efficitur quam arcu, et sollicitudin augue vestibulum vitae.",
-        "link": "https://github.com"
+        "link": "https://github.com/0974201/FullHouse"
       },
       {
-        "naam": "project 4",
+        "naam": "Code bin",
         "thumbnail": "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXUyN2VpcTU2cnVoejZtMTY0NTNwaWtrZTRvN2ZxaWg0YTA0eDJtMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xNuoUMEJCdVKVm7r2x/giphy-downsized-large.gif",
         "tekst": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse sollicitudin diam nec arcu placerat ultrices. Phasellus ultrices aliquet est, ac scelerisque augue placerat quis. Praesent eget dolor erat. Morbi finibus faucibus est at egestas. In scelerisque lacinia aliquet. Morbi pulvinar, nisi sit amet ultrices consectetur, urna ipsum hendrerit nibh, sed malesuada dui ligula eget ex. Sed tempus elementum nisi, id cursus eros consequat aliquet. Curabitur malesuada odio vel tortor pellentesque laoreet. Etiam at nibh augue. Donec fringilla est tortor, at viverra orci pharetra sed. Praesent eget molestie arcu. Sed quis massa et massa imperdiet elementum in ut urna. Duis blandit rhoncus lorem, nec molestie justo tempor ac. Donec tempus dapibus interdum. Nam commodo feugiat risus gravida finibus. Nulla efficitur quam arcu, et sollicitudin augue vestibulum vitae.",
-        "link": "https://github.com"
+        "link": "https://github.com/0974201/code-bin"
       },
       {
-        "naam": "project 5",
+        "naam": "QR scanner/generator",
         "thumbnail": "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXUyN2VpcTU2cnVoejZtMTY0NTNwaWtrZTRvN2ZxaWg0YTA0eDJtMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xNuoUMEJCdVKVm7r2x/giphy-downsized-large.gif",
         "tekst": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse sollicitudin diam nec arcu placerat ultrices. Phasellus ultrices aliquet est, ac scelerisque augue placerat quis. Praesent eget dolor erat. Morbi finibus faucibus est at egestas. In scelerisque lacinia aliquet. Morbi pulvinar, nisi sit amet ultrices consectetur, urna ipsum hendrerit nibh, sed malesuada dui ligula eget ex. Sed tempus elementum nisi, id cursus eros consequat aliquet. Curabitur malesuada odio vel tortor pellentesque laoreet. Etiam at nibh augue. Donec fringilla est tortor, at viverra orci pharetra sed. Praesent eget molestie arcu. Sed quis massa et massa imperdiet elementum in ut urna. Duis blandit rhoncus lorem, nec molestie justo tempor ac. Donec tempus dapibus interdum. Nam commodo feugiat risus gravida finibus. Nulla efficitur quam arcu, et sollicitudin augue vestibulum vitae.",
-        "link": "https://github.com"
+        "link": "https://github.com/0974201/qr-ding"
+      },
+      {
+        "naam": "CameraX",
+        "thumbnail": "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXUyN2VpcTU2cnVoejZtMTY0NTNwaWtrZTRvN2ZxaWg0YTA0eDJtMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xNuoUMEJCdVKVm7r2x/giphy-downsized-large.gif",
+        "tekst": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse sollicitudin diam nec arcu placerat ultrices. Phasellus ultrices aliquet est, ac scelerisque augue placerat quis. Praesent eget dolor erat. Morbi finibus faucibus est at egestas. In scelerisque lacinia aliquet. Morbi pulvinar, nisi sit amet ultrices consectetur, urna ipsum hendrerit nibh, sed malesuada dui ligula eget ex. Sed tempus elementum nisi, id cursus eros consequat aliquet. Curabitur malesuada odio vel tortor pellentesque laoreet. Etiam at nibh augue. Donec fringilla est tortor, at viverra orci pharetra sed. Praesent eget molestie arcu. Sed quis massa et massa imperdiet elementum in ut urna. Duis blandit rhoncus lorem, nec molestie justo tempor ac. Donec tempus dapibus interdum. Nam commodo feugiat risus gravida finibus. Nulla efficitur quam arcu, et sollicitudin augue vestibulum vitae.",
+        "link": "https://github.com/thunderedge/CameraX"
       }
     ]
   }
