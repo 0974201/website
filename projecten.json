@@ -30,14 +30,14 @@
       },
       {
         "naam": "QR scanner/generator app",
-        "thumbnail": "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXUyN2VpcTU2cnVoejZtMTY0NTNwaWtrZTRvN2ZxaWg0YTA0eDJtMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xNuoUMEJCdVKVm7r2x/giphy-downsized-large.gif",
+        "thumbnail": "https://raw.githubusercontent.com/0974201/website/main/img/qrding.png",
         "talen": "Java",
         "tekst": "Op mijn vorige opleiding moesten we een reserveringssysteem maken voor het techlab op onze locatie. Mijn bijdrage aan het project was het implementeren van een QR-generator en -scanner in de Android-applicatie.",
         "url": "https://github.com/0974201/qr-ding"
       },
       {
         "naam": "CameraX",
-        "thumbnail": "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXUyN2VpcTU2cnVoejZtMTY0NTNwaWtrZTRvN2ZxaWg0YTA0eDJtMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xNuoUMEJCdVKVm7r2x/giphy-downsized-large.gif",
+        "thumbnail": "https://raw.githubusercontent.com/0974201/website/main/img/camerax.png",
         "talen": "Java",
         "tekst": "Gemaakt tijdens een project op mijn vorige opleiding, toen CameraX nog in de bètafase was. Het vormt de basis van bovenstaand project.",
         "url": "https://github.com/thunderedge/CameraX"
