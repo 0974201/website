@@ -28,23 +28,25 @@ function make_article(obj){
         art.id = "proj";
         const title = document.createElement('h1');
         const thumb = document.createElement('img');
+        const languages = document.createElement('b');
         const text = document.createElement('span');
-        const link = document.createElement('b');
+        const linktxt = document.createElement('b');
         const url = document.createElement('a');
 
         title.innerHTML = project.naam;
         thumb.innerHTML = project.thumbnail;
         thumb.src = project.thumbnail;
+        languages.innerHTML = project.talen;
         text.innerHTML = project.tekst + '<br/><br/>';
-        link.innerHTML = "Link: "
-        url.href = project.link;
+        linktxt.innerHTML = "Link: "
+        url.href = project.url;
         url.target = "_blank";
         url.innerHTML = '<i class="fa-brands fa-github"></i>' + " github" + '<br/><br/>';
         
         art.appendChild(title);
         art.appendChild(thumb);
         art.appendChild(text);
-        art.appendChild(link);
+        art.appendChild(linktxt);
         art.appendChild(url);
 
         shit.appendChild(art);
