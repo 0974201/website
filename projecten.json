@@ -2,14 +2,14 @@
     "projecten": [
       {
         "naam": "Dysflexis",
-        "thumbnail": "https://raw.githubusercontent.com/0974201/website/main/img/gif1.gif",
+        "thumbnail": "https://raw.githubusercontent.com/0974201/website/main/img/gif2.gif",
         "talen": "ReactJS, JavaScript, SQL, (HTML + CSS)",
         "tekst": "In het laatste blok van dit schooljaar kregen wij de opdracht om voor Dysflexis een feedbacktool te maken. Mijn bijdrage aan het project bestond uit het opzetten van de backend, inclusief het maken van de database, en het implementeren van de login functionaliteit.",
         "url": "https://github.com/Rac-Software-Development/werkplaats-4-react-zeehond"
       },
       {
         "naam": "Aanwezigheidstool HRO",
-        "thumbnail": "https://raw.githubusercontent.com/0974201/website/main/img/gif2.gif",
+        "thumbnail": "https://raw.githubusercontent.com/0974201/website/main/img/gif1.gif",
         "talen": "Python (Flask), JavaScript, SQL, (HTML + CSS)",
         "tekst": "In het derde blok van dit schooljaar kregen wij de opdracht om voor de Hogeschool Rotterdam een aanwezigheidstool te maken. Mijn bijdrage aan het project bestond uit het opzetten van de backend, inclusief het maken van de database, en het ontwikkelen van het admingedeelte.",
         "url": "https://github.com/Rac-Software-Development/werkplaats-3-rest-zeehond"
