@@ -15,6 +15,13 @@
         "url": "https://github.com/Rac-Software-Development/werkplaats-3-rest-zeehond"
       },
       {
+        "naam": "Space Warriors",
+        "thumbnail": "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXUyN2VpcTU2cnVoejZtMTY0NTNwaWtrZTRvN2ZxaWg0YTA0eDJtMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xNuoUMEJCdVKVm7r2x/giphy-downsized-large.gif",
+        "talen": "Python (Pygame)",
+        "tekst": "In het eerste blok van dit schooljaar kregen wij de opdracht om een game te maken met Pygame. Mijn team besloot om een sidescrolling shooter te maken en mijn bijdrage was aan het project was het maken van de player.",
+        "url": "https://github.com/Rac-Software-Development/werkplaats-1-pygame-studiestrijders"
+      },
+      {
         "naam": "Code bin",
         "thumbnail": "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXUyN2VpcTU2cnVoejZtMTY0NTNwaWtrZTRvN2ZxaWg0YTA0eDJtMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xNuoUMEJCdVKVm7r2x/giphy-downsized-large.gif",
         "talen": "C#, Java, Python, JavaScript",
@@ -22,7 +29,7 @@
         "url": "https://github.com/0974201/code-bin"
       },
       {
-        "naam": "QR scanner/generator",
+        "naam": "QR scanner/generator app",
         "thumbnail": "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXUyN2VpcTU2cnVoejZtMTY0NTNwaWtrZTRvN2ZxaWg0YTA0eDJtMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xNuoUMEJCdVKVm7r2x/giphy-downsized-large.gif",
         "talen": "Java",
         "tekst": "Op mijn vorige opleiding moesten we een reserveringssysteem maken voor het techlab op onze locatie. Mijn bijdrage aan het project was het implementeren van een QR-generator en -scanner in de Android-applicatie.",
@@ -39,7 +46,7 @@
         "naam": "Full House",
         "thumbnail": "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXUyN2VpcTU2cnVoejZtMTY0NTNwaWtrZTRvN2ZxaWg0YTA0eDJtMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xNuoUMEJCdVKVm7r2x/giphy-downsized-large.gif",
         "talen": "Java, SQL",
-        "tekst": "Dit was een herkansingsopdracht voor een databaseproject op mijn vorige opleiding. We kregen de opdracht om een reserveringssysteem te maken voor een fictieve organisatie die pokertoernooien organiseert.",
+        "tekst": "Dit was een herkansingsopdracht voor een databaseproject op mijn vorige opleiding. We kregen de opdracht om een reserveringssysteem te maken voor een fictieve organisatie die onderandere pokertoernooien organiseert.",
         "url": "https://github.com/0974201/FullHouse"
       }
     ]
