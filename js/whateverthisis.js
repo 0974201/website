@@ -24,6 +24,7 @@ function make_article(obj){
     console.log(projecten);
 
     for(const project of projecten){
+        console.log(project);
         const art = document.createElement("article");
         art.id = "proj";
         const title = document.createElement('h1');
@@ -41,7 +42,12 @@ function make_article(obj){
         linktxt.innerHTML = "Link: "
         url.href = project.url;
         url.target = "_blank";
-        url.innerHTML = '<i class="fa-brands fa-github"></i>' + " github" + '<br/><br/>';
+
+        if(project.naam === 'Brews Clues'){
+            url.innerHTML = '<i class="fa-brands fa-itch-io"></i>' + " itch.io" + '<br/><br/>';
+        } else {
+            url.innerHTML = '<i class="fa-brands fa-github"></i>' + " github" + '<br/><br/>';
+        }
         
         art.appendChild(title);
         art.appendChild(thumb);
