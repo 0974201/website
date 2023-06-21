@@ -135,7 +135,7 @@ a:hover {
 
     #navbar-ul a {
         display: flex;
-        flex-direction: column;
+        flex-direction: row;
         padding: 9px;
         font-size: small;
     }
