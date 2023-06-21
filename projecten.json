@@ -29,6 +29,13 @@
         "url": "https://github.com/0974201/code-bin"
       },
       {
+        "naam": "Brews Clues",
+        "thumbnail": "https://raw.githubusercontent.com/0974201/website/main/img/gif5.gif",
+        "talen": "-",
+        "tekst": "In 2021 heb ik met een aantal studiegenoten deelgenomen aan de Global Game Jam. In 48 uur hebben wij een kleine game gemaakt, mijn bijdrage was het maken van (concept) art.",
+        "url": "https://wesdewess.itch.io/brews-clues"
+      },
+      {
         "naam": "QR scanner/generator app",
         "thumbnail": "https://raw.githubusercontent.com/0974201/website/main/img/qrding.png",
         "talen": "Java",
